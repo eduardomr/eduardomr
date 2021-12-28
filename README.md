@@ -1,4 +1,4 @@
-## Olá! Eu sou o Eduardo Maia, desenvolvedor front-end e estudante de Engenharia de Software 😄
+## Olá! Eu sou o Eduardo Maia, estudante de Engenharia de Software 😄
 
 <div align="center">
   <a href="https://github.com/eduardomr">
