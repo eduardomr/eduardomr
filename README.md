@@ -1,4 +1,5 @@
-## Olá! Eu sou o Eduardo Maia, estudante de Engenharia de Software 😄
+## Hello! I am Eduardo Maia 😄
+### Full-Stack Developer 
 
 <div align="center">
   <a href="https://github.com/eduardomr">
