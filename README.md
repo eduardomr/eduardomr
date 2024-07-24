@@ -1,5 +1,5 @@
 ## Hello! I am Eduardo Maia 😄
-### Full-Stack Developer 
+### Software Engineer
 
 <div align="center">
   <a href="https://github.com/eduardomr">
